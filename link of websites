@@ -1,3 +1,20 @@
 https://population.un.org/wpp/
+
   - data file (between 1950-2020): https://population.un.org/wpp/Download/Standard/Population/
+
+   - Population data:
+    - Total population: https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx
+    - Population Growth Rate: https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F02_POPULATION_GROWTH_RATE.xlsx
+    
+   - Fertility data:
+    - Births: https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/2_Fertility/WPP2019_FERT_F01_BIRTHS_BOTH_SEXES.xlsx
+    - Net Reproduction Rate: https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/2_Fertility/WPP2019_FERT_F05_NET_REPRODUCTION_RATE.xlsx
+    
+   - Mortality data:
+    - Deaths: https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/3_Mortality/WPP2019_MORT_F03_1_DEATHS_BOTH_SEXES.xlsx
+    
+   - Migration data:
+    - Net Migration Rate: https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/4_Migration/WPP2019_MIGR_F01_NET_MIGRATION_RATE.xlsx
+    - Net Number of Migrants: https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/4_Migration/WPP2019_MIGR_F02_NET_NUMBER_OF_MIGRANTS.xlsx
+    
   - graph (between 1950-2100): https://population.un.org/wpp/Graphs/
